@@ -2,6 +2,8 @@
 ## Host me on Heroku!
 
 ### Here are the steps
+
+*Part A*
 * Create an account on Heroku.
 * _Already have one? Log in / Sign in._
 * Once you've logged in, navigate to the dashboard and create an app, at thi point it's optional to give it name as we are just hosting the API
