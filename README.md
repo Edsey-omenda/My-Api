@@ -16,10 +16,10 @@
 * Navigate to the remote repository pages and set the default to Master / Main.
  
 *Part C*
-_Navigate back to Heroku_
+* *_Navigate back to Heroku_*
 * Tap the connect Github section.
 * Toggle down and search by repository name, once found click connect to link Github and Heroku.
-* Scroll down and tap _Enable Automatic Deploys_ 
-* Scroll down again and tap _Deploy branch_ 
+* Scroll down and tap *_Enable Automatic Deploys_* 
+* Scroll down again and tap *_Deploy branch_* 
 * Toggle down to see development progress.
 * Once complete, *Open app*  to view Api.
